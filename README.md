@@ -70,6 +70,34 @@ The project uses Matplotlib and Seaborn to create visualizations that make patte
 - Seaborn
 - Business & Data Insights
 
+
+  ## 📊 Project Visualizations
+
+### Movie Ratings Distribution
+![Movie Ratings Distribution](01_cell_54.png)
+
+### Movie Popularity Analysis
+![Movie Popularity Analysis](02_cell_56.png)
+
+### Genre Analysis
+![Genre Analysis](03_cell_58.png)
+
+### Language Distribution
+![Language Distribution](04_cell_60.png)
+
+### Release Year Trends
+![Release Year Trends](05_cell_62.png)
+
+### Movie Analysis
+![Movie Analysis](06_cell_64.png)
+
+### Genre Distribution
+![Genre Distribution](07_cell_67.png)
+
+### Rating Analysis
+![Rating Analysis](08_cell_69.png)
+
+
 👩‍💻 Author
 
 Shabeena Bano
