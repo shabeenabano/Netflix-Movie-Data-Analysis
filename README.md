@@ -8,6 +8,7 @@ The project focuses on Exploratory Data Analysis (EDA) and data visualization to
 
 ## 🎯 Objectives
 
+
 - Analyze Netflix movie ratings and popularity
 - Explore movie genres and languages
 - Study release-year trends
