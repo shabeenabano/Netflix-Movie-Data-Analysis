@@ -1,5 +1,6 @@
 # 🎬 Netflix Data Analysis
 
+
 ## 📌 Project Overview
 
 This project analyzes Netflix movie data using Python to explore movie ratings, popularity, genres, languages, and release trends.
@@ -10,6 +11,7 @@ The project focuses on Exploratory Data Analysis (EDA) and data visualization to
 
 The objective of this project is to analyze Netflix movie data to identify patterns in ratings, popularity, genres, languages, and release trends. The analysis uses exploratory data analysis and visualization to generate meaningful insights into movie characteristics and audience-related patterns.
 
+
 ## 🎯 Objectives
 
 
@@ -19,6 +21,7 @@ The objective of this project is to analyze Netflix movie data to identify patte
 - Identify patterns in movie data
 - Perform exploratory data analysis
 - Create meaningful visualizations
+  
 
 ## 🛠️ Technologies Used
 
@@ -27,6 +30,7 @@ The objective of this project is to analyze Netflix movie data to identify patte
 - **Data Analysis:** Exploratory Data Analysis (EDA)
 - **Visualization:** Matplotlib, Seaborn
 - **Environment:** Jupyter Notebook
+
 
 ## 🔍 Project Workflow
 
